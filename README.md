@@ -14,4 +14,5 @@ run_analysis.R<br/>
 	▪	Appropriately labels the data set with descriptive variable names<br/>
 	▪	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for                 each activity and each subject<br/>
 
-
+tidydataset.txt<br/>
+	This file is the tidy data set required for the project. 
